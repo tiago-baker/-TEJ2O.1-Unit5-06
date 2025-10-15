@@ -7,6 +7,7 @@
 
 let distanceToObject:number = 0
 
+//setup
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 
