@@ -19,4 +19,4 @@ input.onButtonPressed(Button.A, function () {
     )
     basic.showNumber(distanceToObject)
     basic.showIcon(IconNames.Happy)
-)}
+})
